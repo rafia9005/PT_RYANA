@@ -78,7 +78,7 @@ export default function ProductView() {
                 </div>
                 <div className="px-6 py-2">
                   <a
-                    href={`https://wa.me/6282143338737?text=${product.chatText}`}
+                    href={`https://wa.me/6285776500643?text=${product.chatText}`}
                     className="block text-center bg-blue-500 hover:bg-blue-600 text-white font-semibold py-2 px-4 rounded-full transition duration-300 ease-in-out"
                   >
                     Buy Now
