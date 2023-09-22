@@ -1,4 +1,4 @@
-import { useState } from 'react';
+{/*import { useState } from 'react';
 import { useRouter } from 'next/router';
 import { getAuth, createUserWithEmailAndPassword, updateProfile, GoogleAuthProvider, signInWithPopup } from 'firebase/auth';
 import app from "@/lib/firebase";
@@ -166,3 +166,4 @@ export default function Register() {
     </>
   );
 }
+*/}
